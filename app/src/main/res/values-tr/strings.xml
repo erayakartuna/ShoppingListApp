@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Alışveriş Listesi</string>
+    <string name="add_label">Ekle</string>
+    <string name="delete_label">Sil</string>
+    <string name="preview_label">Görüntüle</string>
+    <string name="new_item_label">Yeni Madde Ekle</string>
+    <string name="new_list_label">Yeni Liste Ekle</string>
+    <string name="list_label">Alışveriş Listelerim</string>
+    <string name="sure_to_delete_list">Silmek istediğinize emin misiniz?</string>
+    <string name="sure_to_delete_title">Emin misiniz?</string>
+    <string name="deleted_message">Silindi.</string>
+</resources>

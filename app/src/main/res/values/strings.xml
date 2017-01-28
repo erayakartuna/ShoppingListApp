@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="add_label">Add</string>
+    <string name="delete_label">Delete</string>
+    <string name="preview_label">View</string>
+    <string name="new_item_label">Add New Item</string>
+    <string name="new_list_label">Add New List</string>
+    <string name="list_label">Shopping List</string>
+    <string name="sure_to_delete_list">Are you sure to delete this?</string>
+    <string name="sure_to_delete_title">Are you sure?</string>
+    <string name="deleted_message">It was deleted.</string>
+</resources>
